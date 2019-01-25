@@ -1,0 +1,6 @@
+[TSL Luminosity]
+enabled=true
+channel=0
+module=cayenne_tsl
+class=TSL2561
+read=get_lux
