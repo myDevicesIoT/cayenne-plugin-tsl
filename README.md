@@ -22,7 +22,7 @@ A plugin allowing the [Cayenne Pi Agent](https://github.com/myDevicesIoT/Cayenne
 
 ### 2. Setting the device class
 
-   Specify the device you are using by setting the `class` value under the `TSL Luminosity` section in the `cayenne-tsl.plugin` file.
+   Specify the device you are using by setting the `class` value under the `TSL Luminosity` section in the `cayenne_tsl.plugin` file.
    By default this is set to `TSL2561` but it can be set to use any of the classes in the `cayenne_tsl` module.
 
 ### 3. Restarting the agent
